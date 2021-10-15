@@ -1,0 +1,4 @@
+name: Server
+version: '${project.version}'
+main: me.duke.server.main
+api-version: 1.17
